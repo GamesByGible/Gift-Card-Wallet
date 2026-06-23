@@ -1,6 +1,6 @@
 {
-  "name": "Walletstack",
-  "short_name": "Walletstack",
+  "name": "Gift Card Wallet",
+  "short_name": "Gift Cards",
   "description": "Track your gift cards, balances, and expiry dates",
   "start_url": "./index.html",
   "scope": "./",
